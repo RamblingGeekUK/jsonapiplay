@@ -1,0 +1,17 @@
+C:\Dev\play\jsonapiplay\obj\Debug\net6.0\jsonapiplay.csproj.AssemblyReference.cache
+C:\Dev\play\jsonapiplay\obj\Debug\net6.0\jsonapiplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\play\jsonapiplay\obj\Debug\net6.0\jsonapiplay.AssemblyInfoInputs.cache
+C:\Dev\play\jsonapiplay\obj\Debug\net6.0\jsonapiplay.AssemblyInfo.cs
+C:\Dev\play\jsonapiplay\obj\Debug\net6.0\jsonapiplay.csproj.CoreCompileInputs.cache
+C:\Dev\play\jsonapiplay\bin\Debug\net6.0\jsonapiplay.exe
+C:\Dev\play\jsonapiplay\bin\Debug\net6.0\jsonapiplay.deps.json
+C:\Dev\play\jsonapiplay\bin\Debug\net6.0\jsonapiplay.runtimeconfig.json
+C:\Dev\play\jsonapiplay\bin\Debug\net6.0\jsonapiplay.dll
+C:\Dev\play\jsonapiplay\bin\Debug\net6.0\ref\jsonapiplay.dll
+C:\Dev\play\jsonapiplay\bin\Debug\net6.0\jsonapiplay.pdb
+C:\Dev\play\jsonapiplay\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Dev\play\jsonapiplay\obj\Debug\net6.0\jsonapiplay.csproj.CopyComplete
+C:\Dev\play\jsonapiplay\obj\Debug\net6.0\jsonapiplay.dll
+C:\Dev\play\jsonapiplay\obj\Debug\net6.0\ref\jsonapiplay.dll
+C:\Dev\play\jsonapiplay\obj\Debug\net6.0\jsonapiplay.pdb
+C:\Dev\play\jsonapiplay\obj\Debug\net6.0\jsonapiplay.genruntimeconfig.cache
